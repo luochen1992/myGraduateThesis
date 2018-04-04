@@ -1,2 +1,2 @@
-# myGraduateThesis
-My Graduate Thesis Code
+#My Master's Thesis
+deep interactive network
